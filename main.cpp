@@ -1,9 +1,3 @@
-/*         Mata Kuliah     : Dasar Pemrograman
-            Tugas                : UAS
-            Nama               : Elvan Nasrul
-            Kelas                 : TI C
-            Tanggal            : 31 Januari 2023           */
-
 #include <iostream>
 #include <windows.h>
 #include <unistd.h>
